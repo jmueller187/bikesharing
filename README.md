@@ -17,7 +17,7 @@ Here are what our graphed results revealed:
 4) The Checkout Times by Gender line graph indicated that males were the larger majority of bike users during the month of August, taking up to 3 times as many females.
 ![Checkout Times by Gender](https://github.com/jmueller187/bikesharing/blob/main/Resources/CheckoutTimesByGender.png)
 5) From the Trips by Weekday per Hour heat map, we saw that the highest number of weekday rides occurred between 7 AM and 9 AM in the morning and again between 5 PM and 7 PM in the evening. The weekend results showed most rides occurred between 9 AM and 7 PM.
-1[Trips by Weekday per Hour](https://github.com/jmueller187/bikesharing/blob/main/Resources/TripsByWeekdayPerHour.png)
+![Trips by Weekday per Hour](https://github.com/jmueller187/bikesharing/blob/main/Resources/TripsByWeekdayPerHour.png)
 6) The Trps by Gender (Weekday per Hour) heat map mirrored the results seen on the Checkout Times by Gender and Trips by Weekday per Hour graphs. Specifically:
     a) Males were the most frequest bike users.
     b) The highest number of weekday rides occured between typical commuting hours of 7 AM - 9 AM and 5 PM - 7 PM.
@@ -26,7 +26,7 @@ Here are what our graphed results revealed:
 7) From the User Trips by Gender (per Weekday) heat map, we saw the following:
     a) Thursday was most popular day that male and female subscribers used a bike, followed by Friday, Tuesday and Monday respectively.
     b) Bikes rented by customers not subscribing to the service were fairly consistent throught the entire week, with an increase in rides occurring on Saturdays and Sundays.
-1[User Trips by Gender per Weekday](https://github.com/jmueller187/bikesharing/blob/main/Resources/UserTripsByGenderPerWeekday.png)
+![User Trips by Gender per Weekday](https://github.com/jmueller187/bikesharing/blob/main/Resources/UserTripsByGenderPerWeekday.png)
 
 ## Summary:
 By analyzing this data set were were able to gather and generate many data visualizations, including rider and gender breakdowns, peak hours of operation, top starting and ending points, trip durations, and number of trips occurring per each day of the week, gender and subscriber/single-use customer.
