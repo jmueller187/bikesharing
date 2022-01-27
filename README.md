@@ -24,5 +24,7 @@ Here are what our graphed results revealed:
 By analyzing this data set were were able to gather and generate many data visualizations, including rider and gender breakdowns, peak hours of operation, top starting and ending points, trip durations, and number of trips occurring per each day of the week, gender and subscriber/single-use customer.
 Included below are two additional visualizations performed on the Citi Bike data set:
 1) Visualization for the top 10 starting and ending station locations for bike trips:
+![Top 10 Starting and Ending Station Location](https://github.com/jmueller187/bikesharing/blob/main/Resources/Top10StartingEndingStations.png)
 
-3) 
+3) Visualization for usage per Bikeid and ideal maintenance time.
+![Bike Usage per Bikeid and Peak Usage Hours](https://github.com/jmueller187/bikesharing/blob/main/Resources/BikeUsagePerBikeid.png)
