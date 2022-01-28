@@ -1,13 +1,14 @@
 # bikesharing
 Data visualization with Tableau.
 
+## Link to Tableau Public visualization
+The full proposal can be viewed here:
+[NYC Citi Bike Bikeshare Story](https://public.tableau.com/app/profile/jason.mueller/viz/NYCCitiBikeChallenge_16430763340860/NYCCitiBikeBikeshareStory?publish=yes)
+
 ## Overview of Project:
 The task for this project was to analyze Citi Bike bikesharing data compiled in New York City for the month of August, 2019 to determine how a bike share business functions in New York. Once the data was analyzed, we used Tableau Worksheets, Dashboards and Stories to create a business proposal of how a similar business might work in Des Moines, IA for presenting to our potential angel investors.
 
 ## Results:
-The final proposal can be viewed here:
-[NYC Citi Bike Bikeshare Story](https://public.tableau.com/app/profile/jason.mueller/viz/NYCCitiBikeChallenge_16430763340860/NYCCitiBikeBikeshareStory?publish=yes)
-
 Here are what our graphed results revealed:
 1) Rider Breakdown showed there were 1,900,359 subscribers and 443,865 customers who use the service on a per-ride basis.
 2) Gender Breakdown resulted in 1,530,272 male users, 588,431 female users and 225,521 unknown users.
